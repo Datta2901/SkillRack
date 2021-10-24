@@ -27,7 +27,7 @@ Given input is 132
 2                
  
 after reversing
-    1,3            - Now reverse all the elements from the index we found to the end
+    1,3            - Now reverse all the elements from the index + 1 we found to the end of 
 
 
 SO final answer is 231
