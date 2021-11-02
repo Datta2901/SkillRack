@@ -70,7 +70,6 @@ int main() {
     NextSmallerElement(nums);
 	cout << endl;
     CountConsecutiveLesserNumbers(nums);
-
     return 0;
 }
 
