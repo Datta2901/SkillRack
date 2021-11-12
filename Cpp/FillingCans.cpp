@@ -16,7 +16,6 @@ int main(int argc, char **argv){
                 break;
             }
         }
-
         cout << s * 2 << endl;
     }
 }
